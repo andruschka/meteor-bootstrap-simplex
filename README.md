@@ -1,7 +1,7 @@
-meteor-bootstrap-3
+meteor-bootstrap-simplex
 ==================
-bootstrap 3.x packaged for meteor
+bootstrap 3 with simplex theme -  packaged for meteor
 
 
 ### to install
-mrt add bootstrap-3
+mrt add bootstrap-simplex
