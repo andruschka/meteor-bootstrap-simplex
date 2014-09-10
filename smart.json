@@ -1,9 +1,0 @@
-{
-  "name": "bootstrap-simplex",
-  "description": "bootstrap 3.0.2 with simplex theme from bootswatch",
-  "homepage": "https://github.com/and-fri/meteor-bootstrap-simplex",
-  "author": "Andrej Fritz (http://a-fritz.com)",
-  "version": "0.0.2",
-  "git": "https://github.com/and-fri/meteor-bootstrap-simplex.git",
-  "packages": { }
-}
